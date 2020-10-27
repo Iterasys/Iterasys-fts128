@@ -1,3 +1,3 @@
 Planejamento, Análise, Modelagem e Implementação de Testes relacionado com um software capaz de gerenciar listas de compras via Web, Mobile e API. Utilizamos o Microsoft To Do como objeto de estudo para este cenário fictício.
-
+Dividimos as tarefas até o momento em duas pastas: Planejamento e Análise
 O Microsoft To Do é uma nova ferramenta de produtividade adquira pela Microsoft a partir de uma startup alemã.
